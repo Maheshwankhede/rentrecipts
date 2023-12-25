@@ -25,7 +25,7 @@ function generateReceipt(receiptNumber, date, amount, payeeName, address, fromTo
     </div>
 </div>
 <div class="card-body">
-    <p class="card-text">Received sum of INR <strong class="bold-text">Rs.${amount}</strong> from <strong class="bold-text">${payeeName}</strong> towards the rent of property located at <strong class="bold-text">${address}</strong> <br> for the period from <strong class="bold-text">${fromToDate}</strong></p>
+    <p class="card-text">Received sum of INR <strong class="bold-text">Rs.${amount}</strong> from <strong class="bold-text">${payeeName}</strong> towards the rent of property located at <strong class="bold-text">${address}</strong> <br> for the period for <strong class="bold-text">${fromToDate}</strong></p>
    
 </div>
 
